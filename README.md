@@ -14,10 +14,4 @@ This project is a simple **Dice Rolling Game** where two players can roll virtua
 - **CSS**: For styling.
 - **JavaScript**: For generating random dice outcomes and updating the result message.
 
-## Getting Started
 
-To run this project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/dicee-game.git
