@@ -15,4 +15,4 @@ This project is a simple **Dice Rolling Game** where two players can roll virtua
 - **JavaScript**: For generating random dice outcomes and updating the result message.
 
 
-project:
+project:https://abhijithcdinesh.github.io/dicegame/
